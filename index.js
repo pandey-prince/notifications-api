@@ -3,7 +3,7 @@ const data = require("./data.json");
 const todo = require("./Todo.json");
 const app = express();
 const cors = require("cors");
-const { id } = require("zod/v4/locales");
+
 app.use(cors());
 
 const getTemp = () => {
