@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Todo 1",
+      "description": "This is a todo 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Todo 2",
+      "description": "This is a todo 2",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Todo 3",
+      "description": "This is a todo 3",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Todo 4",
+      "description": "This is a todo 4",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Todo 5",
+      "description": "This is a todo 5",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Todo 6",
+      "description": "This is a todo 6",
+      "completed": true
+    },
+    {
+      "id": 7,
+      "title": "Todo 7",
+      "description": "This is a todo 7",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "Todo 8",
+      "description": "This is a todo 8",
+      "completed": true
+    },
+    {
+      "id": 9,
+      "title": "Todo 9",
+      "description": "This is a todo 9",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Todo 10",
+      "description": "This is a todo 10",
+      "completed": true
+    }
+  ]
+}

@@ -1,17 +1,14 @@
 {
   "datasets": [
-    { "network": 15, "jobs": 16, "messaging": 3,  "notification": 1 },
-    { "network": 16, "jobs": 17, "messaging": 6,  "notification": 20 },
-    { "network": 8,  "jobs": 20, "messaging": 16, "notification": 2 },
-    { "network": 3,  "jobs": 4,  "messaging": 12, "notification": 20 },
-    { "network": 9,  "jobs": 18, "messaging": 18, "notification": 0 },
-    { "network": 17, "jobs": 0,  "messaging": 12, "notification": 15 },
-    { "network": 20, "jobs": 0,  "messaging": 4,  "notification": 9 },
-    { "network": 12, "jobs": 3,  "messaging": 17, "notification": 10 },
-    { "network": 20, "jobs": 4,  "messaging": 5,  "notification": 8 },
+    { "network": 15, "jobs": 16, "messaging": 3, "notification": 1 },
+    { "network": 16, "jobs": 17, "messaging": 6, "notification": 20 },
+    { "network": 8, "jobs": 20, "messaging": 16, "notification": 2 },
+    { "network": 3, "jobs": 4, "messaging": 12, "notification": 20 },
+    { "network": 9, "jobs": 18, "messaging": 18, "notification": 0 },
+    { "network": 17, "jobs": 0, "messaging": 12, "notification": 15 },
+    { "network": 20, "jobs": 0, "messaging": 4, "notification": 9 },
+    { "network": 12, "jobs": 3, "messaging": 17, "notification": 10 },
+    { "network": 20, "jobs": 4, "messaging": 5, "notification": 8 },
     { "network": 10, "jobs": 13, "messaging": 16, "notification": 9 }
   ]
 }
-
-
-
