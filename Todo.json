@@ -1,6 +1,13 @@
 {
   "todos": [
     {
+      "id": 0,
+      "title": "Todo 1",
+      "description": "This is a todo 0",
+      "completed": true
+    },
+
+    {
       "id": 1,
       "title": "Todo 1",
       "description": "This is a todo 1",
